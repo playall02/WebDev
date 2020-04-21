@@ -1,0 +1,42 @@
+body {
+	font-family: 'Permanent Marker', cursive;
+}
+img {
+	width: 40px;
+}
+
+a {
+	font-weight: bold;
+}
+h2	{
+	text-align: center;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+	text-decoration: underline;
+	margin-bottom: 1rem;
+}
+
+.btn-outline-success {
+	border-color: white;
+	color: rgba(255, 255, 255, 0.5);
+}
+li {
+	color: white;
+}
+
+.navbar-brand {
+	border-right: 1px white solid;
+	padding-right: 20px;
+}
+p {
+	text-align: center;
+}
+
+#photography {
+	font-family: 'Noto Sans JP', sans-serif
+}
+
+.blue {
+	border: 2px black solid;
+	text-align: center;
+}
